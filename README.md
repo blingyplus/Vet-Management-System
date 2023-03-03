@@ -19,4 +19,5 @@ vet.outstanden.com
 email: admin@gmail.com
 password: admin
 
+CONTACT US TO GET YOUR HOSPITAL THIS SETUP NOW. outstandentech@gmail.com
 ![image](https://user-images.githubusercontent.com/113293972/222834778-242d3b61-8736-449f-8610-99a470e75e14.png)
