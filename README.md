@@ -26,7 +26,7 @@ The Veterinary Hospital Management System is a comprehensive web application des
 
 ## Demo
 
-Check out our live demo at [vet.outstanden.com](vet.outstanden.com) to explore the features of the Veterinary Hospital Management System. Feel free to log in using the following credentials:
+Check out our live demo at [vet.outstanden.com](https://vet.outstanden.com) to explore the features of the Veterinary Hospital Management System. Feel free to log in using the following credentials:
 
 - Email: admin@gmail.com
 - Password: admin
