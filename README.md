@@ -33,7 +33,7 @@ Check out our live demo at [vet.outstanden.com](https://vet.outstanden.com) to e
 
 ## Contact
 
-To get your veterinary hospital set up with this efficient management system, please contact us at outstandentech@gmail.com. We would be happy to provide you with further information and assist you in implementing the system for your hospital's needs.
+To get your veterinary hospital set up with this efficient management system, please contact us at info@outstanden.com. We would be happy to provide you with further information and assist you in implementing the system for your hospital's needs.
 
 ![image](https://user-images.githubusercontent.com/113293972/222834778-242d3b61-8736-449f-8610-99a470e75e14.png)
 
