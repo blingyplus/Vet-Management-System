@@ -1,42 +1,74 @@
-# Veterinary Hospital Management System
+[# Veterinary Practice/ Hospital Management Systems – OutstandenVet & WaggyVet
 
-## Description
+## Overview
 
-The Veterinary Hospital Management System is a comprehensive web application designed to streamline the day-to-day activities of a veterinary hospital or clinic. It provides efficient management of client records and facilitates various tasks related to pet care and hospital operations.
-
-## Key Features
-
-- Booking Appointments: Easily schedule and manage appointments for clients and their pets, ensuring smooth operation and effective time management.
-
-- Client Management: Maintain detailed records of clients, including their contact information, pet details, and appointment history for personalized service.
-
-- Pet Records Management: Keep track of essential pet information such as vaccination records, consultation history, surgery details, hospitalization records, and laboratory reports.
-
-- Detailed Vaccination Reports: Generate comprehensive reports on pet vaccinations, enabling easy tracking of immunization history.
-
-- Pet Lodging: Manage pet lodging facilities, allowing clients to board their pets while ensuring their well-being and providing necessary care.
-
-- Announcements Page: Communicate important announcements, news, or updates to clients, keeping them informed about the veterinary hospital's activities.
-
-- Staff Roles & Privileges: Assign different roles and access privileges to staff members, ensuring appropriate access levels and maintaining data security.
-
-- Point-of-Sale: Process payments for services and products using an integrated point-of-sale system, providing a seamless billing experience.
-
-- Inventories: Keep track of inventory levels for medications, supplies, and other items, ensuring stock availability and efficient resource management.
-
-## Demo
-
-Check out our live demo at [vet.outstanden.com](https://vet.outstanden.com) to explore the features of the Veterinary Hospital Management System. Feel free to log in using the following credentials:
-
-- Email: admin@gmail.com
-- Password: admin
-
-## Contact
-
-To get your veterinary hospital set up with this efficient management system, please contact us at info@outstanden.com. We would be happy to provide you with further information and assist you in implementing the system for your hospital's needs.
-
-![image](https://user-images.githubusercontent.com/113293972/222834778-242d3b61-8736-449f-8610-99a470e75e14.png)
+We offer **two powerful veterinary hospital management systems** designed to streamline veterinary clinic operations. Choose between the proven legacy version, **OutstandenVet**, and our new, modern, cloud-hosted platform, **WaggyVet**.
 
 ---
 
-Thank you for considering the Veterinary Hospital Management System. We are dedicated to providing innovative solutions that enhance the efficiency and organization of your veterinary practice. Contact us today and take the first step towards optimizing your hospital's operations.
+## 🐾 OutstandenVet (Legacy Version – For Sale)
+
+OutstandenVet is a PHP, MySQL, and JavaScript-based system developed to handle everyday operations of a veterinary clinic.
+
+🎯 **One-time purchase: $480**
+
+### Features
+
+- Appointment scheduling  
+- Client and pet records management  
+- Vaccination and medical history  
+- In-patient lodging  
+- Announcements board  
+- Staff role and access control  
+- Point-of-sale and inventory tracking  
+
+### 🔗 Live Demo  
+Explore the demo at [https://vet.outstanden.com](https://vet.outstanden.com)  
+**Login credentials:**  
+- Email: `admin@gmail.com`  
+- Password: `admin`
+
+---
+
+## 🐶 WaggyVet (New & Freemium)
+
+WaggyVet is our latest and most advanced veterinary management system, built with a modern tech stack for better performance, design, and usability. It includes all features from OutstandenVet plus new capabilities.
+
+🎉 **Freemium pricing:**  
+- Free Tier – $0/month  
+- Basic Tier – $9/month  
+- Pro Tier – $20/month
+
+### What’s New in WaggyVet?
+
+- Improved user interface & UX  
+- Pet owner (client) login portal  
+- Real-time chat with clients  
+- Cloud-based & mobile-friendly  
+- Ongoing feature updates  
+
+### 🔗 Live & Demo Access  
+Explore the live system at [https://waggyvet.com](https://waggyvet.com)  
+Test it for free at [https://test.waggyvet.com](https://test.waggyvet.com)  
+✅ You can register a new account or log in with an existing one.
+
+---
+
+## 💬 Contact
+
+To purchase OutstandenVet or get started with WaggyVet, reach out to us:
+
+📧 **info@outstanden.com/ fusionedgeorg@gmail.com**
+
+We’re here to help you choose the system that best fits your veterinary hospital's needs.
+
+---
+
+![OutstandenVet System Screenshot](https://user-images.githubusercontent.com/113293972/222834778-242d3b61-8736-449f-8610-99a470e75e14.png)
+![Waggyvet Screenshot](https://github.com/user-attachments/assets/424ce7d2-97d8-48aa-9bb9-fbba1ee2ffb8)
+
+
+---
+
+Thanks for considering our veterinary solutions. Let's make your hospital operations smoother and more efficient.
+](https://test.waggyvet.com/)
