@@ -1,4 +1,4 @@
-[# Veterinary Practice/ Hospital Management Systems – OutstandenVet & WaggyVet
+### Veterinary Practice/ Hospital Management Systems – OutstandenVet & WaggyVet
 
 ## Overview
 
