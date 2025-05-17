@@ -51,6 +51,9 @@ WaggyVet is our latest and most advanced veterinary management system, built wit
 Explore the live system at [https://waggyvet.com](https://waggyvet.com)  
 Test it for free at [https://test.waggyvet.com](https://test.waggyvet.com)  
 ✅ You can register a new account or log in with an existing one.
+**Login credentials:**  
+- Email: `admin@gmail.com`  
+- Password: `admin123`
 
 ---
 
