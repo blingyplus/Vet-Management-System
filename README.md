@@ -36,8 +36,8 @@ WaggyVet is our latest and most advanced veterinary management system, built wit
 
 🎉 **Freemium pricing:**  
 - Free Tier – $0/month  
-- Basic Tier – $9/month  
-- Pro Tier – $20/month
+- Pro Tier – $9/month  
+- Premium Tier – $20/month
 
 ### What’s New in WaggyVet?
 
