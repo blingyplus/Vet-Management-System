@@ -67,11 +67,11 @@ We’re here to help you choose the system that best fits your veterinary hospit
 
 ---
 
-![OutstandenVet System Screenshot](https://user-images.githubusercontent.com/113293972/222834778-242d3b61-8736-449f-8610-99a470e75e14.png)
-![Waggyvet Screenshot](https://github.com/user-attachments/assets/424ce7d2-97d8-48aa-9bb9-fbba1ee2ffb8)
+![OutstandenVet Screenshot](https://user-images.githubusercontent.com/113293972/222834778-242d3b61-8736-449f-8610-99a470e75e14.png)
+![Waggyvet Screenshot](https://github.com/user-attachments/assets/8952b126-8f09-419c-8e61-65ec9e0ed760)
 
 
 ---
 
 Thanks for considering our veterinary solutions. Let's make your hospital operations smoother and more efficient.
-](https://test.waggyvet.com/)
+](https://test.waggyvet.com/), (https://vet.outstanden.com/)
