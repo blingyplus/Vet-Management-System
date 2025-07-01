@@ -67,7 +67,7 @@ We’re here to help you choose the system that best fits your veterinary hospit
 
 ---
 
-![OutstandenVet Screenshot](https://user-images.githubusercontent.com/113293972/222834778-242d3b61-8736-449f-8610-99a470e75e14.png)
+![OutstandenVet screenshot](https://github.com/user-attachments/assets/a4241a74-9c29-4010-a048-2f52df414153)
 ![Waggyvet Screenshot](https://github.com/user-attachments/assets/8952b126-8f09-419c-8e61-65ec9e0ed760)
 
 
