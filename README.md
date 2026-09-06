@@ -1,63 +1,79 @@
-# 🐾 Veterinary Hospital Management Solutions
+# 🐾 Veterinary Clinic Software
 
-Two ways to run your veterinary clinic: **OutstandenVet** (own the source, self‑hosted)
-and **WaggyVet** (cloud, nothing to install).
+Run your clinic without the paperwork chaos — appointments, patient records,
+vaccinations, billing and stock, all in one place.
+
+We offer two options. Pick whichever suits how you like to work:
+
+| | **OutstandenVet** | **WaggyVet** |
+|---|---|---|
+| How it works | Installed on your own server | Online — just sign in, nothing to install |
+| Cost | **GHS 1,200, once** | **Free** to start, then a small monthly fee |
+| Your data | Lives on your server | Hosted for you, backed up automatically |
+| Best for | Clinics that want to own everything outright | Clinics that want to start today with zero setup |
+| Updates | Occasional | Continuous |
 
 ---
 
-## OutstandenVet — self‑hosted source code
+## OutstandenVet — buy once, it's yours
 
-A complete veterinary management system in **PHP · MySQL · JavaScript**. Buy once,
-host it yourself, own your data. No recurring fees.
+A one-time purchase. You get the complete program and everything needed to
+install it on a normal web host, plus a step-by-step setup guide. No monthly
+fees, ever.
 
-**Price: GHS 1,200 (one‑time)**
+**Price: GHS 1,200 (one-time payment)**
 
-### Buy & download
+### Get it now
 
 👉 **[store.fusionedge.org/products/outstandenvet](https://store.fusionedge.org/products/outstandenvet)**
 
-Pay with Paystack and the download link is emailed to you instantly — no back‑and‑forth.
-You get the full source, database schema + starter data, and a step‑by‑step setup guide.
+Pay with mobile money or card through Paystack. Right after payment you get an
+email with your download link — no waiting, no back and forth.
 
-### Features
+### What it does
 
-* Appointment scheduling with time slots
-* Pet & owner records with full medical history
-* Consultations, immunisations & lab requests
-* Surgery, hospitalisation & boarding
-* Inventory with integrated Point of Sale (POS)
-* Multi‑branch support
-* Role‑based admin & sub‑admin accounts
-* SMS & email notifications
-* PDF reports (patient, vaccination, sales)
+* Book and manage appointments
+* Full pet and owner records with medical history
+* Vaccination and immunisation tracking
+* Consultations, lab requests, surgery and hospital stays
+* Pet boarding / lodging
+* Sell products at the front desk (built-in point of sale) and track stock
+* Run more than one branch
+* Staff accounts with different permission levels
+* SMS and email reminders
+* Printable reports (patient, vaccination, sales)
 
-### Live demo
+### Try it first
 
-[vet.outstanden.com](https://vet.outstanden.com) — login `admin@gmail.com` / `admin`
+Demo: **[vet.outstanden.com](https://vet.outstanden.com)** — sign in with
+`admin@gmail.com` / `admin`
 
-### Requirements
+### Good to know
 
-PHP 8.0+ · MySQL 5.7+ / MariaDB · Apache or Nginx. Dependencies are bundled — Composer not required.
-
-### Licence
-
-Commercial. One production deployment per purchase; no redistribution or resale.
-
----
-
-## WaggyVet — cloud (SaaS)
-
-Modern, hosted veterinary software. Nothing to install; sign in from anywhere.
-
-* Free – $0/month
-* Pro – $9/month
-* Premium – $20/month
-
-App: [waggyvet.com](https://waggyvet.com) · Demo: [test.waggyvet.com](https://test.waggyvet.com)
-(`admin@gmail.com` / `admin565`, or register)
+* Runs on standard web hosting (PHP + MySQL). Any host or web person can set it
+  up in under an hour using the included guide.
+* One clinic per purchase. You may use and customise it for your own clinic, but
+  you can't resell it or share the files publicly.
 
 ---
 
-## Contact
+## WaggyVet — online, ready to use
 
-📧 [info@outstanden.com](mailto:info@outstanden.com) · [fusionedgeorg@gmail.com](mailto:fusionedgeorg@gmail.com)
+Nothing to install. Sign up and start using it the same day, from any computer,
+tablet or phone. It has everything OutstandenVet does, plus a client portal and
+live chat with pet owners.
+
+* **Free** to start
+* **$9/month** (Pro) or **$20/month** (Premium) for more features
+
+Start here: **[waggyvet.com](https://waggyvet.com)**
+Try the demo: **[test.waggyvet.com](https://test.waggyvet.com)** —
+`admin@gmail.com` / `admin565`, or just register.
+
+---
+
+## Questions?
+
+Email **[info@outstanden.com](mailto:info@outstanden.com)** or
+**[fusionedgeorg@gmail.com](mailto:fusionedgeorg@gmail.com)** — happy to help you
+choose.
