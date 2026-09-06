@@ -1,89 +1,63 @@
----
-
 # 🐾 Veterinary Hospital Management Solutions
 
-## OutstandenVet (Legacy) & WaggyVet (Next-Gen)
-
-Manage your veterinary clinic with confidence. Whether you want full ownership or prefer the ease of cloud access, our two complementary systems—**OutstandenVet** and **WaggyVet**—are designed to support your practice now and into the future.
-
----
-
-## ✅ OutstandenVet – Trusted, Full-Access System (One-time Purchase)
-
-OutstandenVet is a powerful, self-hosted veterinary management system built with PHP, MySQL, and JavaScript. It’s designed for clinics that want full control of their data and infrastructure—with **no recurring fees**.
-
-💰 **One-time payment:** \$480
-🔄 **Actively maintained with occasional updates**
-
-### Core Features:
-
-* Appointment scheduling
-* Complete pet & owner medical history
-* Vaccination tracking
-* In-patient lodging
-* Staff access controls and roles
-* Inventory and point-of-sale (POS) management
-* Announcements board
-* Multi-branch support
-* Clean, responsive interface
-
-### 🔗 Live Demo
-
-Test it at [https://vet.outstanden.com](https://vet.outstanden.com)
-**Login credentials:**
-
-* Email: `admin@gmail.com`
-* Password: `admin`
+Two ways to run your veterinary clinic: **OutstandenVet** (own the source, self‑hosted)
+and **WaggyVet** (cloud, nothing to install).
 
 ---
 
-## 🌐 WaggyVet – Modern, Cloud-Based Companion
+## OutstandenVet — self‑hosted source code
 
-WaggyVet is our new cloud-hosted veterinary software—built for modern clinics that want speed, simplicity, and instant access from anywhere. It includes all major features from OutstandenVet, plus enhancements for today’s workflows.
+A complete veterinary management system in **PHP · MySQL · JavaScript**. Buy once,
+host it yourself, own your data. No recurring fees.
 
-🎉 **Freemium pricing model:**
+**Price: GHS 1,200 (one‑time)**
 
-* Free Tier – \$0/month
-* Pro Tier – \$9/month
-* Premium Tier – \$20/month
+### Buy & download
 
-### Highlights:
+👉 **[store.fusionedge.org/products/outstandenvet](https://store.fusionedge.org/products/outstandenvet)**
 
-* Streamlined modern interface
-* Accessible on mobile, tablet, and desktop
-* Cloud-based – no setup required
-* Real-time chat with clients
-* Pet owner login portal
-* Ongoing feature updates
-* Multi-hospital support out of the box
+Pay with Paystack and the download link is emailed to you instantly — no back‑and‑forth.
+You get the full source, database schema + starter data, and a step‑by‑step setup guide.
 
-### 🔗 Try WaggyVet
+### Features
 
-Main app: [https://waggyvet.com](https://waggyvet.com)
-Demo system: [https://test.waggyvet.com](https://test.waggyvet.com)
+* Appointment scheduling with time slots
+* Pet & owner records with full medical history
+* Consultations, immunisations & lab requests
+* Surgery, hospitalisation & boarding
+* Inventory with integrated Point of Sale (POS)
+* Multi‑branch support
+* Role‑based admin & sub‑admin accounts
+* SMS & email notifications
+* PDF reports (patient, vaccination, sales)
 
-**Demo login:**
+### Live demo
 
-* Email: `admin@gmail.com`
-* Password: `admin565`
-  Or register directly for a hands-on experience.
+[vet.outstanden.com](https://vet.outstanden.com) — login `admin@gmail.com` / `admin`
 
----
+### Requirements
 
-## ✉️ Contact Us
+PHP 8.0+ · MySQL 5.7+ / MariaDB · Apache or Nginx. Dependencies are bundled — Composer not required.
 
-Want to purchase **OutstandenVet** or explore **WaggyVet** for your clinic?
-Reach out—we’d love to assist:
+### Licence
 
-📧 **[info@outstanden.com](mailto:info@outstanden.com)** / **[fusionedgeorg@gmail.com](mailto:fusionedgeorg@gmail.com)**
+Commercial. One production deployment per purchase; no redistribution or resale.
 
 ---
 
-## 🐶 Trusted by Clinics, Built by Developers Who Care
+## WaggyVet — cloud (SaaS)
 
-OutstandenVet gives you full ownership of your system with a one-time investment, while WaggyVet brings the flexibility of cloud access for your on-the-go needs
-Let’s make your clinic operations smoother, smarter, and more efficient.
+Modern, hosted veterinary software. Nothing to install; sign in from anywhere.
 
-![OutstandenVet screenshot](https://github.com/user-attachments/assets/a4241a74-9c29-4010-a048-2f52df414153)
-![Waggyvet Screenshot](https://github.com/user-attachments/assets/8952b126-8f09-419c-8e61-65ec9e0ed760)
+* Free – $0/month
+* Pro – $9/month
+* Premium – $20/month
+
+App: [waggyvet.com](https://waggyvet.com) · Demo: [test.waggyvet.com](https://test.waggyvet.com)
+(`admin@gmail.com` / `admin565`, or register)
+
 ---
+
+## Contact
+
+📧 [info@outstanden.com](mailto:info@outstanden.com) · [fusionedgeorg@gmail.com](mailto:fusionedgeorg@gmail.com)
